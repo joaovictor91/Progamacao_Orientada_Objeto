@@ -1,0 +1,14 @@
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\4º Modulo\Programação Orientada a Objetos\Aula 04-09-2021\ConstrutorAluno\ConstrutorAluno\obj\Debug\ConstrutorAluno.csprojAssemblyReference.cache
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\4º Modulo\Programação Orientada a Objetos\Aula 04-09-2021\ConstrutorAluno\ConstrutorAluno\obj\Debug\ConstrutorAluno.csproj.CoreCompileInputs.cache
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\4º Modulo\Programação Orientada a Objetos\Aula 04-09-2021\ConstrutorAluno\ConstrutorAluno\bin\Debug\ConstrutorAluno.exe.config
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\4º Modulo\Programação Orientada a Objetos\Aula 04-09-2021\ConstrutorAluno\ConstrutorAluno\bin\Debug\ConstrutorAluno.exe
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\4º Modulo\Programação Orientada a Objetos\Aula 04-09-2021\ConstrutorAluno\ConstrutorAluno\bin\Debug\ConstrutorAluno.pdb
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\4º Modulo\Programação Orientada a Objetos\Aula 04-09-2021\ConstrutorAluno\ConstrutorAluno\obj\Debug\ConstrutorAluno.exe
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\4º Modulo\Programação Orientada a Objetos\Aula 04-09-2021\ConstrutorAluno\ConstrutorAluno\obj\Debug\ConstrutorAluno.pdb
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\4º Modulo\Programação Orientada a Objetos\Aula 18-09-2021\ConstrutorAluno\ConstrutorAluno\bin\Debug\ConstrutorAluno.exe.config
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\4º Modulo\Programação Orientada a Objetos\Aula 18-09-2021\ConstrutorAluno\ConstrutorAluno\bin\Debug\ConstrutorAluno.exe
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\4º Modulo\Programação Orientada a Objetos\Aula 18-09-2021\ConstrutorAluno\ConstrutorAluno\bin\Debug\ConstrutorAluno.pdb
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\4º Modulo\Programação Orientada a Objetos\Aula 18-09-2021\ConstrutorAluno\ConstrutorAluno\obj\Debug\ConstrutorAluno.csprojAssemblyReference.cache
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\4º Modulo\Programação Orientada a Objetos\Aula 18-09-2021\ConstrutorAluno\ConstrutorAluno\obj\Debug\ConstrutorAluno.csproj.CoreCompileInputs.cache
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\4º Modulo\Programação Orientada a Objetos\Aula 18-09-2021\ConstrutorAluno\ConstrutorAluno\obj\Debug\ConstrutorAluno.exe
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\4º Modulo\Programação Orientada a Objetos\Aula 18-09-2021\ConstrutorAluno\ConstrutorAluno\obj\Debug\ConstrutorAluno.pdb
