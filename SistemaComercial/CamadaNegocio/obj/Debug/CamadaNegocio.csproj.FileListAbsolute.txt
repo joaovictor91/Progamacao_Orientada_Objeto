@@ -1,0 +1,9 @@
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\4º Modulo\Programação Orientada a Objetos\SistemaComercial\CamadaNegocio\bin\Debug\CamadaNegocio.dll
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\4º Modulo\Programação Orientada a Objetos\SistemaComercial\CamadaNegocio\bin\Debug\CamadaNegocio.pdb
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\4º Modulo\Programação Orientada a Objetos\SistemaComercial\CamadaNegocio\bin\Debug\CamadaDados.dll
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\4º Modulo\Programação Orientada a Objetos\SistemaComercial\CamadaNegocio\bin\Debug\MySql.Data.dll
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\4º Modulo\Programação Orientada a Objetos\SistemaComercial\CamadaNegocio\bin\Debug\CamadaDados.pdb
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\4º Modulo\Programação Orientada a Objetos\SistemaComercial\CamadaNegocio\obj\Debug\CamadaNegocio.csproj.AssemblyReference.cache
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\4º Modulo\Programação Orientada a Objetos\SistemaComercial\CamadaNegocio\obj\Debug\CamadaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\4º Modulo\Programação Orientada a Objetos\SistemaComercial\CamadaNegocio\obj\Debug\CamadaNegocio.dll
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\4º Modulo\Programação Orientada a Objetos\SistemaComercial\CamadaNegocio\obj\Debug\CamadaNegocio.pdb

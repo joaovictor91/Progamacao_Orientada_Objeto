@@ -1,0 +1,15 @@
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\4º Modulo\Programação Orientada a Objetos\SistemaComercial\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.AssemblyReference.cache
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\4º Modulo\Programação Orientada a Objetos\SistemaComercial\CamadaApresentacao\obj\Debug\CamadaApresentacao.FrmProduto.resources
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\4º Modulo\Programação Orientada a Objetos\SistemaComercial\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.GenerateResource.cache
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\4º Modulo\Programação Orientada a Objetos\SistemaComercial\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.CoreCompileInputs.cache
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\4º Modulo\Programação Orientada a Objetos\SistemaComercial\CamadaApresentacao\bin\Debug\CamadaApresentacao.dll
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\4º Modulo\Programação Orientada a Objetos\SistemaComercial\CamadaApresentacao\bin\Debug\CamadaApresentacao.pdb
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\4º Modulo\Programação Orientada a Objetos\SistemaComercial\CamadaApresentacao\bin\Debug\CamadaNegocio.dll
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\4º Modulo\Programação Orientada a Objetos\SistemaComercial\CamadaApresentacao\bin\Debug\CamadaDados.dll
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\4º Modulo\Programação Orientada a Objetos\SistemaComercial\CamadaApresentacao\bin\Debug\MySql.Data.dll
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\4º Modulo\Programação Orientada a Objetos\SistemaComercial\CamadaApresentacao\bin\Debug\CamadaNegocio.pdb
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\4º Modulo\Programação Orientada a Objetos\SistemaComercial\CamadaApresentacao\bin\Debug\CamadaDados.pdb
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\4º Modulo\Programação Orientada a Objetos\SistemaComercial\CamadaApresentacao\obj\Debug\CamadaApresentacao.dll
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\4º Modulo\Programação Orientada a Objetos\SistemaComercial\CamadaApresentacao\obj\Debug\CamadaApresentacao.pdb
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\4º Modulo\Programação Orientada a Objetos\SistemaComercial\CamadaApresentacao\obj\Debug\CamadaApresentacao.FrmCliente.resources
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\4º Modulo\Programação Orientada a Objetos\SistemaComercial\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.CopyComplete

@@ -1,0 +1,7 @@
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\4º Modulo\Programação Orientada a Objetos\Aula 01-11-2021\O Correto\Joao_Victor\Joao_Victor\bin\Debug\Joao_Victor.exe.config
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\4º Modulo\Programação Orientada a Objetos\Aula 01-11-2021\O Correto\Joao_Victor\Joao_Victor\bin\Debug\Joao_Victor.exe
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\4º Modulo\Programação Orientada a Objetos\Aula 01-11-2021\O Correto\Joao_Victor\Joao_Victor\bin\Debug\Joao_Victor.pdb
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\4º Modulo\Programação Orientada a Objetos\Aula 01-11-2021\O Correto\Joao_Victor\Joao_Victor\obj\Debug\Joao_Victor.csproj.AssemblyReference.cache
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\4º Modulo\Programação Orientada a Objetos\Aula 01-11-2021\O Correto\Joao_Victor\Joao_Victor\obj\Debug\Joao_Victor.csproj.CoreCompileInputs.cache
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\4º Modulo\Programação Orientada a Objetos\Aula 01-11-2021\O Correto\Joao_Victor\Joao_Victor\obj\Debug\Joao_Victor.exe
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\4º Modulo\Programação Orientada a Objetos\Aula 01-11-2021\O Correto\Joao_Victor\Joao_Victor\obj\Debug\Joao_Victor.pdb
